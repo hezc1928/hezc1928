@@ -1,0 +1,1 @@
+g++ 2048_1.cpp pdcurses.a -I E:\cpp_project\Stanford\2048-3 -o 2048_1

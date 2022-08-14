@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1640054344 source:e:\c++task10\9.3(1)\main.cpp
+	"seqlist.h"
+	"chain.h"
+
+1640053698 e:\c++task10\9.3(1)\seqlist.h
+	<iostream>
+	<fstream>
+
+1640053756 e:\c++task10\9.3(1)\chain.h
+	<iostream>
+
+1640055116 source:e:\cpp_project\tju_cpp\tests\10\zhengshuhan\c++task10\9.3(1)\main.cpp
+	"seqlist.h"
+	"chain.h"
+	<iostream>
+
+1640053698 e:\cpp_project\tju_cpp\tests\10\zhengshuhan\c++task10\9.3(1)\seqlist.h
+	<iostream>
+	<fstream>
+
+1640053756 e:\cpp_project\tju_cpp\tests\10\zhengshuhan\c++task10\9.3(1)\chain.h
+	<iostream>
+

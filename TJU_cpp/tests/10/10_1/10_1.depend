@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1639641088 source:d:\10_1\main.cpp
+	<iostream>
+	"SeqList.h"
+
+1639641026 d:\10_1\include\seqlist.h
+	<iostream>
+
+1639641073 source:d:\10_1\src\seqlist.cpp
+	"SeqList.h"
+
+1639640548 source:d:\10_1\src\chain.cpp
+	"Chain.h"
+
+1639641015 d:\10_1\include\chain.h
+	<iostream>
+
+1640174611 source:e:\cpp_project\tju_cpp\tests\10\10_1\main.cpp
+	<iostream>
+	"E:\cpp_project\TJU_cpp\tests\10\10_1\include\SeqList.h"
+	"E:\cpp_project\TJU_cpp\tests\10\10_1\include\Chain.h"
+
+1640173950 e:\cpp_project\tju_cpp\tests\10\10_1\include\seqlist.h
+	<iostream>
+
+1640174593 e:\cpp_project\tju_cpp\tests\10\10_1\include\chain.h
+	<iostream>
+
+1639640550 source:e:\cpp_project\tju_cpp\tests\10\10_1\src\chain.cpp
+	"Chain.h"
+
+1639641240 source:e:\cpp_project\tju_cpp\tests\10\10_1\src\seqlist.cpp
+	"SeqList.h"
+
+1640057881 source:e:\cpp_project\tju_cpp\tests\10\10_1\src\abcd.cpp
+	"abcd.h"
+
+1640057910 e:\cpp_project\tju_cpp\tests\10\10_1\include\abcd.h
+

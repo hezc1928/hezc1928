@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1639641088 source:d:\10_1\main.cpp
+	<iostream>
+	"SeqList.h"
+
+1639641026 d:\10_1\include\seqlist.h
+	<iostream>
+
+1639641073 source:d:\10_1\src\seqlist.cpp
+	"SeqList.h"
+
+1639640548 source:d:\10_1\src\chain.cpp
+	"Chain.h"
+
+1639641015 d:\10_1\include\chain.h
+	<iostream>
+

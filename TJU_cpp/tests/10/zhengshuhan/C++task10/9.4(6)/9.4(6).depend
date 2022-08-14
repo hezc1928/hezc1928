@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640058150 source:e:\cpp_project\tju_cpp\tests\10\zhengshuhan\c++task10\9.4(6)\main.cpp
+	<iostream>
+	"chain.h"
+
+1640059230 e:\cpp_project\tju_cpp\tests\10\zhengshuhan\c++task10\9.4(6)\chain.h
+	<iostream>
+
